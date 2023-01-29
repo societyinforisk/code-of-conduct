@@ -9,6 +9,7 @@ The SiRA Membership Slack ("SiRA Slack") is an online community dedicated to the
 - [The Short Version](#the-short-version)
 - [The Long Version](#the-long-version)
   - [Respect](#respect)
+    - [Inclusive Language](#inclusive-language)
   - [Privacy](#privacy)
   - [Read the Room](#read-the-room)
   - [Direct Message Etiquette](#direct-message-etiquette)
@@ -46,6 +47,16 @@ Respectful behavior includes but is not limited to:
 If you're unclear if a communication, action, or behavior is respectful, ask someone instead of assuming. No, really. Just ask the [Administrators](#administrators) publicly or privately. We'd rather hear from you than hear about something you said or did after the fact, and we are here to help.
 
 Don't be a bystander, be a leader. Role model respectful behavior, but also help to address disrespect when you see it within your community.
+
+#### Inclusive Language
+
+The SiRA Membership Slack has a Slackbot that automatically flags non-inclusive words and phrases and makes alternate suggestions.
+
+Have you been on the receiving end of this Slackbot for using some particular term? Don't feel bad - many of us have too! It's not there to draw attention to you personally - it's simply a mechanism we use to gently shape the whole community towards inclusive language and set some norms around how we communicate. Please just take it as intended: a friendly prompt to consider refining how you express yourself.
+
+In partnership with [Better Allies](https://betterallies.com), the Rands Leadership Slack decided to share their inclusive language Slackbot rules so that administrators of other Slack communities can copy or modify them. We are using these same rules in the SiRA Membership Slack as well.
+
+For simple instructions on how to download the rules and customize a Slack workspace, please refer to [this page](https://betterallies.com/language/).
 
 **The Bottom Line**: Disrespectful behavior outside this community by active members may be considered a violation of this code of conduct at the administrators' discretion.
 

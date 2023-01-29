@@ -39,16 +39,20 @@ Many channels also have pinned items - links and resources that people have cons
 SiRA Membership Slack has many (many) channels. We could not hope to describe all of them here, but this should help give you a starting point for being here.
 
 - **`#sira-newbies`:** Not sure which channel is the best place for your question or post? Ask for directions here.
-- **`#sira-*`:** Channels with the `rands-` prefix are related to operating and participating in SiRA Slack, such as `#rands-admins`, `#rands-slack-culture`, and `#rands-slack-rules`.
-- **`#daily-ftw`:** This is where we celebrate our wins, and it's a great channel to get started in! Post your own wins so we can cheer you on, and join the conversations on other people's posts!
-- **`#help-and-advice`:** If there's not a more specific channel that's relevant to your question, you can always ask in this channel.
+- **`#sira-*`:** Channels with the `sira-` prefix are related to operating and participating in SiRA Slack, such as `#sira-public`, `#sira-newbies` and `#sira-quotewall`.
+- **`#random`:** Channel for your random thoughts.
+- **`#jobs`:** Job postings and requests for referrals for job-seekers.
 
 ## Slackbot Custom Responses
 
-Slackbot [custom responses](https://slack.com/resources/using-slack/a-guide-to-slackbot-custom-responses) are trigger words or trigger phrases that cause an auto-reply from Slackbot. Discussions about Slackbot responses take place in `#coc`, and there's a pinned link in that channel with the list of responses as of December 2019.
+Slackbot [custom responses](https://slack.com/resources/using-slack/a-guide-to-slackbot-custom-responses) are trigger words or trigger phrases that cause an auto-reply from Slackbot. Discussions about Slackbot responses take place in `#coc`.
 
-### Custom Responses for Inclusive Language
+## Inclusive Language
 
-SiRA Slack has a Slackbot that automatically flags non-inclusive words and phrases and makes alternate suggestions. People often ask about using these Slackbot responses in their other Slack communities - you can find the instructions on how to do that, as well as the custom responses used, [here](https://github.com/societyinforisk/code-of-conduct/blob/main/inclusive-language.md).
+The SiRA Membership Slack has a Slackbot that automatically flags non-inclusive words and phrases and makes alternate suggestions.
 
 Have you been on the receiving end of this Slackbot for using some particular term? Don't feel bad - many of us have too! It's not there to draw attention to you personally - it's simply a mechanism we use to gently shape the whole community towards inclusive language and set some norms around how we communicate. Please just take it as intended: a friendly prompt to consider refining how you express yourself.
+
+In partnership with [Better Allies](https://betterallies.com), the Rands Leadership Slack decided to share their inclusive language Slackbot rules so that administrators of other Slack communities can copy or modify them. We are using these same rules in the SiRA Membership Slack as well.
+
+For simple instructions on how to download the rules and customize a Slack workspace, please refer to [this page](https://betterallies.com/language/).
