@@ -14,10 +14,10 @@ A troll is a member who starts flame wars or intentionally upsets other members 
 The determination of whether a message is trolling is often a subjective assessment by administrators, but there is a specific situation where SiRA Slack has a zero-tolerance policy where:
 
 1. A message which is perceived and/or reported as trolling,
-2. Is posted by a non-contributing member with little to no other engagement elsewhere in the Slack, and, 
+2. Is posted by a non-contributing member with little to no other engagement elsewhere in the Slack, and,
 3. Is posted via a deliberately fake account.
 
-Content posted in this fashion results in a no-warning expulsion of the offending account from SiRA Slack. Trolling which does not meet this high bar is managed via the usual content review process. 
+Content posted in this fashion results in a no-warning expulsion of the offending account from SiRA Slack. Trolling which does not meet this high bar is managed via the usual content review process.
 
 ## Content Review Process
 
@@ -35,9 +35,8 @@ Additional consequences beyond the removal of content are up to the acting Admin
 
 ## Direct Messages ("Private Messages")
 
-Direct messages between one or more members are private. Administators have no access to these messages and have no ability to delete them, but the above rules apply to this content. Violations should be addressed with Administators via the [Incident Process](https://github.com/societyinforisk/code-of-conduct/blob/master/incident-process.md). 
+Direct messages between one or more members are private. Administators have no access to these messages and have no ability to delete them, but the above rules apply to this content. Violations should be addressed with Administators via the [Incident Process](https://github.com/societyinforisk/code-of-conduct/blob/master/incident-process.md).
 
 ## Administrators
 
 The current roster of Administrators is maintained in the primary [Code of Conduct](https://github.com/societyinforisk/code-of-conduct/blob/master/code-of-conduct.md) document.
-

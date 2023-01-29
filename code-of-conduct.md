@@ -1,6 +1,6 @@
 # The SiRA Membership Slack Code of Conduct
 
-The SiRA Membership Slack is a Risk analysis community. 
+The SiRA Membership Slack is a Risk analysis community.
 
 The SiRA Membership Slack ("SiRA Slack") is an online community dedicated to the craft of risk analysis. The community is built around public and private channels focusing on risk analysis development. While many channels are not focused on risk analysis, all community participants are asked to act as leaders and must comply with the following Code of Conduct. Administrators will enforce this code throughout all channels within the SiRA Membership Slack.
 
@@ -16,14 +16,16 @@ The SiRA Membership Slack ("SiRA Slack") is an online community dedicated to the
   - [Don't Be a Troll](#dont-be-a-troll)
   - [Content Review Process](#content-review-process)
   - [Resolve Peacefully](#resolve-peacefully)
-- [Consequences](#additional-consequences)
+  - [Additional Situations](#additional-situations)
   - [Incident Process](https://github.com/societyinforisk/code-of-conduct/blob/master/incident-process.md)
   - [Deleting Content](https://github.com/societyinforisk/code-of-conduct/blob/master/deleting-content.md)
 - [Administrators](#administrators)
+  - [Administrator Information Access](#administrator-information-access)
+- [Thanks](#thanks)
 
 ## The Short Version
 
-Be a leader. 
+Be a leader.
 
 Be respectful of others, ask people to stop if you are bothered; respect privacy; understand this community is primarily not-for-profit, and attempt to resolve issues without Administrators, but if you can't resolve an issue, you can contact the Administrators. If you violate this Code of Conduct, it will be made clear to you, and you may be asked to leave the SiRA Membership Slack.
 
@@ -43,7 +45,7 @@ Respectful behavior includes but is not limited to:
 
 If you're unclear if a communication, action, or behavior is respectful, ask someone instead of assuming. No, really. Just ask the [Administrators](#administrators) publicly or privately. We'd rather hear from you than hear about something you said or did after the fact, and we are here to help.
 
-Don't be a bystander, be a leader. Role model respectful behavior, but also help to address disrespect when you see it within your community. 
+Don't be a bystander, be a leader. Role model respectful behavior, but also help to address disrespect when you see it within your community.
 
 **The Bottom Line**: Disrespectful behavior outside this community by active members may be considered a violation of this code of conduct at the administrators' discretion.
 
@@ -51,11 +53,11 @@ Don't be a bystander, be a leader. Role model respectful behavior, but also help
 
 Protect IP and legally-protected information. This community is not a public space. However, no one has signed a non-disclosure agreement ("NDA") to participate, and you should not presume anything you say here will remain private, so act accordingly.
 
-If you want to disclose anything discussed here in a public channel publicly, use the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule) as the guideline ("participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed"). 
+If you want to disclose anything discussed here in a public channel publicly, use the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule) as the guideline ("participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed").
 
 For attribution of specific content found on this Slack on public channels, we ask that you ask the originator of the content for permission. If you don't receive consent in a reasonable time, we ask that you credit the "SiRA Membership Slack."
 
-**The Bottom Line**: Sharing content from private channels is discouraged without permission of the private channel. 
+**The Bottom Line**: Sharing content from private channels is discouraged without permission of the private channel.
 
 ### Read the Room
 
@@ -67,7 +69,7 @@ This is a large community with many different humans populating hundreds of chan
 - Examine the channel topic for helpful tips.
 - Click on the channel details and read the about section to see how many members are present, what messages have already been pinned, and what files have been shared.
 
-**The Bottom Line**: Posting the same message to multiple channels is spamming. Don't spam. 
+**The Bottom Line**: Posting the same message to multiple channels is spamming. Don't spam.
 
 ### Direct Message Etiquette
 
@@ -76,7 +78,7 @@ A direct message ("DM") is a private message to one or more other members. Sendi
 - Is it obvious to the other member why I am contacting them privately? If not, should I provide context, such as a public post?
 - Could this message be considered unsolicited spam? If so, should you be sending it?
 
-**The Bottom Line**: Unsolicited DMs are likely Code of Conduct violations, especially with a commercial flavor. 
+**The Bottom Line**: Unsolicited DMs are likely Code of Conduct violations, especially with a commercial flavor.
 
 ### Not For Profit (Mostly)
 
@@ -84,20 +86,21 @@ This community is hyper allergic to unwanted commercial behavior. This is not a 
 
 While apparent commercial behavior is easy to identify, non-obvious commercial behavior is a grey area. In general, if you are wondering if a post is commercially appropriate, our guidelines are that you:
 
-- Ask permission of the channel before posting a message that might be considered commercial, stating clear intent for the post, and, 
+- Ask permission of the channel before posting a message that might be considered commercial, stating clear intent for the post, and,
 - Listen to the response of your peers in the channel and act accordingly.
 
 If, after engaging with the community, you are still wondering if a specific message is commercial or not, please ask in one of the channels dedicated to helping find their way in this community, such as #sira-newbies or #coc.
 
-As this community grows, our tolerance for unsolicited commerical behavior decreases. 
+As this community grows, our tolerance for unsolicited commerical behavior decreases.
 
-**The Bottom Line**: 
-- Emailing members with unsolicited commercial offers based on information acquired within the community is a Code of Conduct violation. 
+**The Bottom Line**:
+
+- Emailing members with unsolicited commercial offers based on information acquired within the community is a Code of Conduct violation.
 - Aggressive spamming is cause for automatic account deactivation.
 
-#### Approved Commercial Channels 
+#### Approved Commercial Channels
 
-On-topic and relevant commercial activity is allowed in these channels: 
+On-topic and relevant commercial activity is allowed in these channels:
 
 - #conferences
 - #consulting-gigs
@@ -109,9 +112,9 @@ On-topic and relevant commercial activity is allowed in these channels:
 - #services
 - #wedidit
 
-Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. Again, read the room. If you'd like to request approval for a channel to be listed as commercial, please contact the [Adminstrators](#administrators). 
+Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. Again, read the room. If you'd like to request approval for a channel to be listed as commercial, please contact the [Adminstrators](#administrators).
 
-**The Bottom Lines**: 
+**The Bottom Lines**:
 
 - In channels where commercial activity is allowed, it is just as unwelcome to post an unrelated commercial offering as it is to post in non-commercial channels.
 - Commercial requests via direct messages ("DM") without prior and apparent consent from the receiver are prohibited.
@@ -119,7 +122,7 @@ Some geographically-focused channels have a higher tolerance for specific kinds 
 
 #### Surveys
 
-We've received many requests to run surveys in specific channels. Members interested in surveying a channel must clearly state in the channel they intend to survey: 
+We've received many requests to run surveys in specific channels. Members interested in surveying a channel must clearly state in the channel they intend to survey:
 
 1. The goal of the survey
 2. How the data will be used
@@ -134,12 +137,12 @@ A troll is a member who starts flame wars or intentionally upsets other members 
 The determination of whether a message is trolling is often a subjective assessment by administrators, but there is a specific situation where SiRA Slack has a zero-tolerance policy where:
 
 1. A message which is perceived and reported as trolling,
-2. Is posted by a non-contributing member with little to no other engagement elsewhere in the Slack, and, 
+2. Is posted by a non-contributing member with little to no other engagement elsewhere in the Slack, and,
 3. Is posted via a deliberately fake account.
 
 Content posted in this fashion results in a no-warning expulsion of the offending account from SiRA Slack. Trolling which does not meet this high bar is managed via the usual content review process.
 
-**The Bottom Lines** 
+**The Bottom Lines**:
 
 - Admins may delete messages that violate the Code of Conduct.
 - In non-trolling cases, the authors of those messages will be notified and may be given a chance to modify the message themselves.
@@ -170,11 +173,11 @@ Should you catch yourself behaving disrespectfully, or be confronted as such, li
 
 If you cannot resolve a situation peacefully, please refer to our [Incident Process](https://github.com/societyinforisk/code-of-conduct/blob/master/incident-process.md) and choose a course of action that suits the situation.
 
-Suppose the Administrators determine that a member is violating any part of this Code of Conduct. In that case, they may take any action they deem appropriate, up to and including expulsion and exclusion from the SiRA Membership Slack. 
+Suppose the Administrators determine that a member is violating any part of this Code of Conduct. In that case, they may take any action they deem appropriate, up to and including expulsion and exclusion from the SiRA Membership Slack.
 
 As Administrators, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. This Code of Conduct documents everyday situations we've seen, but we can't foresee every situation. If in the Administrator's judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so.
 
-### Administrators
+## Administrators
 
 Administrators serve two years terms with an option for a second term.
 
@@ -191,9 +194,9 @@ The Administrator(s) of SiRA Membership as of February 2023:
 - [](@societyinforisk.org) - [](@societyinforisk.org)
 - [](@societyinforisk.org) - [](@societyinforisk.org)
 
-A call for new Administrators’ process kicks off the September before the end of term date for Administrators. 
+A call for new Administrators’ process kicks off the September before the end of term date for Administrators.
 
-You can contact them directly or post your questions or concerns in the #rands-admins channel. 
+You can contact them directly or post your questions or concerns in the #rands-admins channel.
 
 ### Administrator Information Access
 

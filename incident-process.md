@@ -14,7 +14,7 @@ With CoC clarity in hand, please contact the member(s) and explain:
 
 1. This is the activity I saw which I have an issue with,
 2. It’s not allowed by the CoC, and,
-3. Let’s figure out how to resolve it. 
+3. Let’s figure out how to resolve it.
 
 In any other Slack or community, the default first step is to contact an Administrator, but as this is a Risk analysis community we ask in non-heinous cases to start with member-driven resolution. If you are not comfortable with this approach, go ahead and jump to “It’s Admin O’Clock”.
 
@@ -22,7 +22,7 @@ Ideally, the above discussion can help resolve the situation. It often does. If 
 
 ## It’s Admin O’Clock
 
-Administrators can be contacted directly, via the @slack-admins group, or in the #coc channel. Please choose the path most comfortable for you. 
+Administrators can be contacted directly, via the @slack-admins group, or in the #coc channel. Please choose the path most comfortable for you.
 
 When you contact an Administrator(s), provide the following:
 
@@ -31,7 +31,7 @@ When you contact an Administrator(s), provide the following:
 
 Things to know:
 
-- The Administrators are committed to a first response within 24 hours. Usually faster. If you directly contact a single Admin, it could be longer due to time zone differences and work schedules. 
+- The Administrators are committed to a first response within 24 hours. Usually faster. If you directly contact a single Admin, it could be longer due to time zone differences and work schedules.
 - #coc contains all the of the Administrators and is private. If you're filing a formal incident, we suggest directly contacting an Admin at @slack-admins or directly, as formal incidents are confidential to the admins.
 
 Once you’ve contacted an Administrator, they’ll help you triage the incident.
@@ -50,7 +50,7 @@ In both cases, the reporter needs to provide the following information to the Ad
 3. What material supports this situation?
 4. Any privacy concerns? (Reporter consent is required before sharing any information regarding the incident)
 
-With this information in hand, the Administrator will: 
+With this information in hand, the Administrator will:
 
 1. Work to determine whether this is a raised concern or a formal complaint with the reporter. In the case of a raised concern, the understanding is there may be no action other than administrative awareness.
 2. Ask clarifying questions of the reporter because every incident is different.
@@ -61,10 +61,10 @@ With this information in hand, the Administrator will:
 With this information in hand, the Administrator will determine a consequence. Consequences include but are not limited to:
 
 1. A Strike
-    - SiRA Slack operates on a three strike system whereby non-suspending CoC violations can result in one or more strikes. Administrators will use their judgement and historical precedent in determining what constitutes a strike. When a member receives three strikes, they will be suspended from SiRA Slack for a period of time or permanently depending on the violation. Multiple strikes can be assessed depending on the violation. 
+    - SiRA Slack operates on a three strike system whereby non-suspending CoC violations can result in one or more strikes. Administrators will use their judgement and historical precedent in determining what constitutes a strike. When a member receives three strikes, they will be suspended from SiRA Slack for a period of time or permanently depending on the violation. Multiple strikes can be assessed depending on the violation.
     - We do not have a definition of what does and does not constitute a strike. However, as of November 2019, we are keeping a record of all administrative activity to help calibrate strikes.
 2. Do Not Contact
-    - A member may not contact (in any fashion, messages or emoji) either publicly or privately one more other members of the Slack for a predetermined period of time. 
+    - A member may not contact (in any fashion, messages or emoji) either publicly or privately one more other members of the Slack for a predetermined period of time.
 3. Temporary suspension
     - A member is suspended from SiRA Slack for a predetermined period of time.
 4. Permanent suspension
@@ -72,12 +72,12 @@ With this information in hand, the Administrator will determine a consequence. C
 
 For any type of suspension, the admins will conduct a private vote based on the incident. Majority wins. In the event of a tie due to abstention, the President will cast the deciding vote.
 
-With the defined incident and consequence in hand, the Administrator will present the following to the accused member: 
+With the defined incident and consequence in hand, the Administrator will present the following to the accused member:
 
 - This is what occurred.
-- This incident is confidential. 
+- This incident is confidential.
 - This is how I confirmed what occurred.
-- This is what I decided in terms of consequence. In the case of a non-ban action, explain the terms of Do Not Contact, Strikes, Etc. 
+- This is what I decided in terms of consequence. In the case of a non-ban action, explain the terms of Do Not Contact, Strikes, Etc.
   - For strikes, members will be alerted to the strike policy and the number of current strikes they have.
   - For Do Not Contact, members will receive the time period when they can not contact other member(s)
   - For Temporary Suspension, members will receive the time period when they can not be a part of SiRA Slack.
