@@ -102,15 +102,15 @@ As this community grows, our tolerance for unsolicited commerical behavior decre
 
 On-topic and relevant commercial activity is allowed in these channels:
 
-- #conferences
-- #consulting-gigs
-- #i-built-something
-- #i-wrote-something
+- #events
+- #fair
+- #faircon
+- #frameworks
 - #jobs
-- #market-research
-- #remote-jobs
-- #services
-- #wedidit
+- #research
+- #shameless-plugs
+- #social-profiles
+- #tools-apps-software
 
 Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. Again, read the room. If you'd like to request approval for a channel to be listed as commercial, please contact the [Adminstrators](#administrators).
 
@@ -181,22 +181,19 @@ As Administrators, we will seek to resolve conflicts peacefully and in a manner 
 
 Administrators serve two years terms with an option for a second term.
 
-The Administrator(s) of SiRA Membership as of February 2023:
+The Board members and volunteer administrators of SiRA as of February 2023:
 
-- [Lisa Young](lisa.young@societyinforisk.org) - [President](president@societyinforisk.org)
-- [](@societyinforisk.org) - [](@societyinforisk.org)
-- [](@societyinforisk.org) - [](@societyinforisk.org)
-- [](@societyinforisk.org) - [](@societyinforisk.org)
-- [](@societyinforisk.org) - [](@societyinforisk.org)
-- [](@societyinforisk.org) - [](@societyinforisk.org)
-- [](@societyinforisk.org) - [](@societyinforisk.org)
-- [](@societyinforisk.org) - [](@societyinforisk.org)
-- [](@societyinforisk.org) - [](@societyinforisk.org)
-- [](@societyinforisk.org) - [](@societyinforisk.org)
+- [Lisa Young](mailto:lisa.young@societyinforisk.org) - [President](mailto:president@societyinforisk.org)
+- [Jim Lipkis](mailto:jim.lipkis@societyinforisk.org) - [Vice President](mailto:vicepresident@societyinforisk.org)
+- [Ron Mehring](mailto:ron.mehring@societyinforisk.org) - [Secretary](mailto:secretary@societyinforisk.org)
+- [Joseph Breen](mailto:joseph.breen@societyinforisk.org) - [Treasurer](mailto:payments@societyinforisk.org)
+- [John Hoffoss](mailto:john.hoffoss@societyinforisk.org) - [Director At-large - Technology](mailto:admin@societyinforisk.org)
+- [Caleb Juhnke](mailto:caleb.juhnke@societyinforisk.org) - [Director At-large - Sponsorship](mailto:sponsorship@societyinforisk.org)
+- [Chad Weinman](mailto:chad.weinman@societyinforisk.org) - [Director At-large - Membership](mailto:membership@societyinforisk.org)
+- [Tyanna Smith](mailto:tyanna.smith@societyinforisk.org) - [Director At-large](mailto:@societyinforisk.org)
+- [Darrell Waurio](mailto:darrell.waurio@societyinforisk.org) - [Director At-large - SiRAcon](mailto:siracon@societyinforisk.org)
 
-A call for new Administrators’ process kicks off the September before the end of term date for Administrators.
-
-You can contact them directly or post your questions or concerns in the #rands-admins channel.
+You can contact them directly, via @slack-admins, or post your questions or concerns in the #coc channel.
 
 ### Administrator Information Access
 
@@ -218,6 +215,6 @@ Thank you to every SiRA Membership Slack community member for helping make our h
 
 Thanks to [Tantek Çelik](http://tantek.com/) and the other organizers of [IndieWebCamp](http://indiewebcamp.com/) for creating and sharing the [Code of Conduct](http://indiewebcamp.com/code-of-conduct) on which this one was initially based. If you question the need for a Code of Conduct, please see [this](http://indiewebcamp.com/code-of-conduct-why).
 
-This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
+This current version of our COC was rebased to V4.1 of the Rands Leadership Slack Code of Conduct, which was published on August 6, 2022. You can see all prior versions of this parent artifact [here](https://github.com/randsleadershipslack/documents-and-resources/commits/main/code-of-conduct.md).
 
-V4.1 of this Code of Conduct was published on August 6, 2022. You can see all prior versions of this artifact [here](https://github.com/randsleadershipslack/documents-and-resources/commits/main/code-of-conduct.md).
+This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
