@@ -1,5 +1,5 @@
 When someone says	Slackbot responds
-"you guys, these guys, my guys, those guys, hey guys, hi guys, the guys, these guys, thanks guys, guys?"	"Instead of *guys*, perhaps you mean *pals*?... *[Please consider editing your message so it's more inclusive]*"
+"you guys, these guys, my guys, those guys, hey guys, hi guys, the guys, these guys, thanks guys, guys, guyz, guyss"	"Instead of *guys*, perhaps you mean *pals*?... *[Please consider editing your message so it's more inclusive]*"
  	"Instead of *guys*, perhaps you mean *gang*?... *[Please consider editing your message so it's more inclusive]*"
  	"Instead of *guys*, perhaps you mean *crew*?... *[Please consider editing your message so it's more inclusive]*"
  	"Instead of *guys*, perhaps you mean *people*?... *[Please consider editing your message so it's more inclusive]*"
@@ -10,7 +10,6 @@ When someone says	Slackbot responds
  	"Instead of *guys*, have you considered a more gender-neutral pronoun like *folks*? *[Please consider editing your message so it's more inclusive]*"
  	Have you considered using a different pronoun instead of *guys*? Because many here (including me) aren't guys? *[Please consider editing your message so it's more inclusive]*
  	"You're a valuable member of this community, and we hope you'll continue participating. Instead of *guys*, have you considered a more gender-neutral pronoun like *folks*? *[Please consider editing your message so it's more inclusive of other valuable members of this community]*"
-"guyz, guyss"	"Instead of some variant of *guys*, would you consider editing your message so it doesn't exclude people who aren't guys?"
 CHWD?	"Cisgender Hetero White Dude. But please consider using the full term ""cisgender, heterosexual white man” or similar. That would both make it more approachable for those unfamiliar with this obscure initialism, and prevent reducing people down to initialisms."
 "URP?, URPs?"	"Underrepresented person(s). But please consider using the full term ""members of traditionally underrepresented groups"" or similar; people don't like to be made into acronyms, _especially_ when they are already marginalized. See: en.wikipedia.org/wiki/Underrepresented_group"
 "URM?, URMs?"	"Underrepresented minorit(y|ies). But please consider using the full term ""members of traditionally underrepresented groups"" or similar; people don't like to be made into acronyms, _especially_ when they are already marginalized. See: en.wikipedia.org/wiki/Underrepresented_group"
