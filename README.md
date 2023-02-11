@@ -1,4 +1,4 @@
-# SiRA Membership Slack Documentation and Resources
+# SiRA Code of Conduct, SiRAcon Conference, and Membership Slack Documentation and Resources
 
 This repository collects documents and resources for the membership of the SiRA Membership Slack.
 
