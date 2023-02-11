@@ -1,7 +1,5 @@
 # The SiRA Membership Slack Code of Conduct
 
-The SiRA Membership Slack is a Risk analysis community.
-
 The SiRA Membership Slack ("SiRA Slack") is an online community dedicated to the craft of risk analysis. The community is built around public and private channels focusing on risk analysis development. While many channels are not focused on risk analysis, all community participants are asked to act as leaders and must comply with the following Code of Conduct. Administrators will enforce this code throughout all channels within the SiRA Membership Slack.
 
 ## Table of Contents
