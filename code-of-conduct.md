@@ -1,6 +1,6 @@
 # The SiRA Membership Slack Code of Conduct
 
-The SiRA Membership Slack ("SiRA Slack") is an online community dedicated to the craft of risk analysis. The community is built around public and private channels focusing on risk analysis development. While many channels are not focused on risk analysis, all community participants are asked to act as leaders and must comply with the following Code of Conduct. Administrators will enforce this code throughout all channels within the SiRA Membership Slack.
+The Society of Information Risk Analysis, SiRAcon, and SiRA's Membership Slack form the SiRA Community -- a community dedicated to the craft of risk analysis. The SiRA Community is built around public and private discourse focusing on risk analysis development. While many channels are not focused on risk analysis, all community participants are asked to act as leaders and must comply with the following Code of Conduct. Administrators will enforce this code throughout all channels within the SiRA Membership Slack.
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@ The SiRA Membership Slack ("SiRA Slack") is an online community dedicated to the
 
 Be a leader.
 
-Be respectful of others, ask people to stop if you are bothered; respect privacy; understand this community is primarily not-for-profit, and attempt to resolve issues without Administrators, but if you can't resolve an issue, you can contact the Administrators. If you violate this Code of Conduct, it will be made clear to you, and you may be asked to leave the SiRA Membership Slack.
+Be respectful of others, ask people to stop if you are bothered; respect privacy; understand this community is primarily not-for-profit, and attempt to resolve issues without Administrators, but if you can't resolve an issue, you can contact the Administrators. If you violate this Code of Conduct, it will be made clear to you, and you may be asked to leave the SiRA Community.
 
 ## The Long Version
 
@@ -201,7 +201,8 @@ The Board members and volunteer administrators of SiRA as of February 2023:
 - [John Hoffoss](mailto:john.hoffoss@societyinforisk.org) - [Director At-large - Technology](mailto:admin@societyinforisk.org)
 - [Caleb Juhnke](mailto:caleb.juhnke@societyinforisk.org) - [Director At-large - Sponsorship](mailto:sponsorship@societyinforisk.org)
 - [Chad Weinman](mailto:chad.weinman@societyinforisk.org) - [Director At-large - Membership](mailto:membership@societyinforisk.org)
-- [Tyanna Smith](mailto:tyanna.smith@societyinforisk.org) - [Director At-large](mailto:@societyinforisk.org)
+- [Nick Bakewell](mailto:nick.bakewell@societyinforisk.org) - Director At-large
+- [Taylor Lenzen](mailto:taylor.lenzen@societyinforisk.org) - Director At-large
 - [Darrell Waurio](mailto:darrell.waurio@societyinforisk.org) - [Director At-large - SiRAcon](mailto:siracon@societyinforisk.org)
 
 You can contact them directly, via @slack-admins, or post your questions or concerns in the #coc channel.
