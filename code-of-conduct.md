@@ -192,18 +192,18 @@ As Administrators, we will seek to resolve conflicts peacefully and in a manner 
 
 Administrators serve two years terms with an option for a second term.
 
-The Board members and volunteer administrators of SiRA as of February 2023:
+The Board members and volunteer administrators of SiRA (as of Jun 2024):
 
 - [Lisa Young](mailto:lisa.young@societyinforisk.org) - [President](mailto:president@societyinforisk.org)
 - [Jim Lipkis](mailto:jim.lipkis@societyinforisk.org) - [Vice President](mailto:vicepresident@societyinforisk.org)
-- [Ron Mehring](mailto:ron.mehring@societyinforisk.org) - [Secretary](mailto:secretary@societyinforisk.org)
+- [Darrell Waurio](mailto:darrell.waurio@societyinforisk.org) - [Secretary](mailto:secretary@societyinforisk.org)
 - [Joseph Breen](mailto:joseph.breen@societyinforisk.org) - [Treasurer](mailto:payments@societyinforisk.org)
 - [John Hoffoss](mailto:john.hoffoss@societyinforisk.org) - [Director At-large - Technology](mailto:admin@societyinforisk.org)
 - [Caleb Juhnke](mailto:caleb.juhnke@societyinforisk.org) - [Director At-large - Sponsorship](mailto:sponsorship@societyinforisk.org)
 - [Chad Weinman](mailto:chad.weinman@societyinforisk.org) - [Director At-large - Membership](mailto:membership@societyinforisk.org)
+- [Taylor Lenzen](mailto:taylor.lenzen@societyinforisk.org) - [Director At-large - SiRAcon](mailto:siracon@societyinforisk.org)
 - [Nick Bakewell](mailto:nick.bakewell@societyinforisk.org) - Director At-large
-- [Taylor Lenzen](mailto:taylor.lenzen@societyinforisk.org) - Director At-large
-- [Darrell Waurio](mailto:darrell.waurio@societyinforisk.org) - [Director At-large - SiRAcon](mailto:siracon@societyinforisk.org)
+- [Tim Wynkoop](mailto:tim.wynkoop@societyinforisk.org) - Director At-large
 
 You can contact them directly, via @slack-admins, or post your questions or concerns in the #coc channel.
 
